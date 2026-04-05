@@ -1,0 +1,5 @@
+{
+  "name": "Almus Advokatbyrå",
+  "description": "Professionele en persoonlijke juridische bijstand in Strafrecht en Personen- en familierecht.",
+  "requestFramePermissions": ["geolocation"]
+}
